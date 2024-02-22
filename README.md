@@ -1,1 +1,1 @@
-[![Build Status](https://github.com/Eleonoraraf/Selenid/workflows/Gradle/badge.svg)](https://github.com/Eleonoraraf/Selenid/actions)
+[![Java CI with Gradle](https://github.com/Eleonoraraf/Selenid/actions/workflows/Gradle.yml/badge.svg)](https://github.com/Eleonoraraf/Selenid/actions/workflows/Gradle.yml)
